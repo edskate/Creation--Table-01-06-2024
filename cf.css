@@ -1,0 +1,119 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: #680303;
+    text-shadow: -20px 20px 20px #000;
+    margin: 20px;
+}
+h2{
+    color: #180269;
+    text-shadow: -10px 10px 10px #000;
+    margin: 20px;
+}
+h3{
+    color: rgb(5, 0, 0);
+    text-shadow: -10px 10px 10px #000;
+    margin: 20px;
+
+}
+p{
+    color: chartreuse;
+    text-shadow: -10px 10px 10px #000;
+    margin: 30px;
+}
+table{
+    border: 1px solid #000;
+    width: 300px;
+    padding: 5px;margin: 7%;
+    box-shadow: 10px 10px 10px #000;
+}
+td.dado01{
+    background-color: black;
+    color: aliceblue;
+    text-shadow: -1px 1px 1px  red;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border:2px  solid #00ffff;
+}
+td.dado02{
+    background-color: blue;
+    color: aliceblue;
+    text-shadow: -1px 1px 1px  red;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border:2px  solid #00ffff;
+    
+}
+td.dado03{
+background-color: darkorange;
+color: #000;
+text-shadow: -1px 1px 1px  red;
+padding: 5px;
+box-shadow: 10px 10px 10px #000;
+border:2px  solid #00ffff;
+}
+td.dado04{
+    background-color: chartreuse;
+    color: black;
+    text-shadow: -1px 1px 1px  red;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border:2px  solid #00ffff;
+}
+td.dado5{
+    background-color: cornflowerblue;
+    text-shadow: 1px 2px 3px #000;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border:2px  solid #00ffff;
+}
+td.dado6{
+    background-color: darkgreen;
+    text-shadow: -1px 1px 1px #000;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border: 2px solid #00ffff;
+}
+td.dado7{
+    background-color: darkslategrey;
+    text-shadow: 1px 1px 1px #000;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border:2px solid #00ffff;
+}
+td.dado8{
+    background-color: deeppink;
+    text-shadow: 2px 2px 2px #000;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border:2px solid #00ffff;
+}
+td.dado9{
+    background-color: greenyellow;
+    text-shadow: -1px 2px 3px #000;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border: 2px solid #00ffff;
+}
+td.dado10{
+    background-color: darkturquoise;
+    text-shadow: -1px 2px 3px #000;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border: 2px solid #180269;
+}
+td.dado11{
+    background-color: greenyellow;
+    text-shadow: -1px 2px 3px #000;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border: 3px solid #ff0000;
+}
+td.dado12{
+    background-color: indigo;
+    text-shadow: -1px 2px 3px #000;
+    padding: 5px;
+    box-shadow: 10px 10px 10px #000;
+    border: 2px solid #00ffff;
+}
