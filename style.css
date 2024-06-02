@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aqua;
+    text-shadow: -10px 10px 11px ;
+    margin: 30px ;
+}
+tr.dado{
+    background-color: blueviolet;
+} 
+table{
+    border: 5px solid white;
+    width: 500px;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha{
+ border: 8px solid red; 
+ background-color: yellow;  
+ text-shadow: 10px 10px 10px #000;
+ padding: 2px ;
+}
+td.dado2{
+    color: chartreuse;
+    background-color: blue;
+    text-shadow: 10px 10px 10px #000;
+}
+td.dado3{
+    color: rgb(0, 0, 0);
+    background-color: darkgoldenrod;
+    text-shadow: 10px 10px 10px #000;
+}
+th.dado4{
+    color: yellow;
+    text-shadow: 40px 40px 40px #000;
+    background-color: darkred;
+    border: white;
+}
+th.dado5{
+background-color: burlywood;
+text-shadow: 10px 10px 10px #000;
+}
+th.dado6{
+    background-color: cornsilk;
+    text-shadow: 10px 10px 10px #000;
+    border-collapse: collapse;
+
+}
+td.dado5{
+    background-color: crimson;
+    text-shadow: 20px 20px 20px #000;
+    border-collapse: collapse;
+
+}
+td.dado1{
+    background-color: darkgreen;
+    text-shadow: 10px 10px 10px #000;
+    border-collapse: collapse;
+ 
+}
+td.dado10{
+    background-color: red;
+    text-shadow: 10px 20px 30px #000;
+    color: aliceblue;
+}
+td.dado11{
+    background-color: cyan;
+    color:  darkred;
+    text-shadow: 1px 2px 3px #000;
+}
+td.dado12{
+    background-color: darkslategrey;
+    text-shadow: 1px 2px 3px #000;
+    color: aqua;
+}
+td{
+    text-shadow: 10px 10px 10px #000;
+    color: aliceblue;
+    text-align: center;
+}
+td.dado13{
+    background-color: darkgrey;
+    color: #000;
+}
