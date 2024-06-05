@@ -57,4 +57,17 @@ td{
     border: solid;
 }
 
- 
+@media (max-width:800px) {
+    .form-group{
+    min-width: 100%;
+      width: 100% !important;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    form{
+        height: 450px;
+    }
+}
