@@ -11,8 +11,11 @@ tr.dado{
 } 
 table{
     border: 5px solid white;
-    width: 500px;
     box-shadow: 10px 10px 10px #000;
+    width: 400px;
+    display: flex box;
+    padding: 5px;
+    margin: 3%;
 }
 td.linha{
  border: 8px solid red; 
