@@ -25,17 +25,10 @@ td{
 .container{
     background-color: rgb(157, 157, 192);
     color: #000000;
-    width: 450px;
-    text-align: center;
+    width: 300px;
     border-radius: 10px 10px 10px ;
     border: 3px solid red;
    
-}
-tr.btn{
-    background-color: chartreuse;
-    text-shadow: 10px 10px 10px #000;
-   
-  
 }
 .btn td{
     width: 500px;
@@ -57,17 +50,3 @@ td{
     border: solid;
 }
 
-@media (max-width:800px) {
-    .form-group{
-    min-width: 100%;
-      width: 100% !important;
-    }
-    .row{
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-    }
-    form{
-        height: 450px;
-    }
-}
